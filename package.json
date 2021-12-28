@@ -4,7 +4,6 @@
   "description": "Ghaymz meme bot",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
   },
   "repository": {
     "type": "git",
