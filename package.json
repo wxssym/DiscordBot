@@ -1,0 +1,25 @@
+{
+  "name": "ghaymz-biden-bot",
+  "version": "0.0.1",
+  "description": "Ghaymz meme bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "testcmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxssym/ghaymzbiden_bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Waxim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wxssym/ghaymzbiden_bot/issues"
+  },
+  "homepage": "https://github.com/wxssym/ghaymzbiden_bot#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0"
+  }
+}
